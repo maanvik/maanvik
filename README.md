@@ -6,11 +6,11 @@
 
 ### 👨‍💻 About Me
 
-💡 Full Stack Developer with experience in building scalable backend systems and interactive frontend applications.  
-🛠️ Passionate about developing tools to solve real problems and deliver meaningful impact.  
-🌍  Currently exploring opportunities in **open source** and community-driven software.  
-🔗 Let’s talk about building cool stuff with Java, Python, C, C++, Spring Boot, React, AWS, and modern DevOps tools.                                            
-💬 And hey, even if it’s not one of those — I’m always open to brainstorm, debug, or just exchange cool ideas.
+ - Full Stack Developer with experience in building scalable backend systems and interactive frontend applications.  
+ - Passionate about developing tools to solve real problems and deliver meaningful impact.  
+ - Currently exploring opportunities in **open source** and community-driven software.  
+Let’s talk about building cool stuff with Java, Python, C, C++, Spring Boot, React, AWS, and modern DevOps tools.                                            
+And hey, even if it’s not one of those — I’m always open to brainstorm, debug, or just exchange cool ideas.
 
 **You can connect via:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/maanvik-t)
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
@@ -70,8 +70,8 @@
 
 ### 🎉 Fun Facts
  
-- 🤖 I sometimes build tools just to automate my own TODOs  
-- 💡 I believe every problem is an opportunity to build something better  
+- I sometimes build tools just to automate my own TODOs  
+- I believe every problem is an opportunity to build something better  
 
 ---
 
